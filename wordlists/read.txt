@@ -1,0 +1,1 @@
+Adicione a wordlist desejada neste diretório, ou pode utilizar outras passando o caminho do arquivo.
